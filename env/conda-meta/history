@@ -77,3 +77,10 @@
 +defaults/win-64::unicodedata2-15.1.0-py312h2bbff1b_0
 +defaults/win-64::zstd-1.5.6-h8880b57_0
 # update specs: ['matplotlib']
+==> 2024-10-26 20:42:46 <==
+# cmd: C:\ProgramData\miniconda3\Scripts\conda-script.py install scipy
+# conda version: 24.3.0
++defaults/noarch::pybind11-abi-5-hd3eb1b0_0
++defaults/win-64::icc_rt-2022.1.0-h6049295_2
++defaults/win-64::scipy-1.13.1-py312hbb039d4_0
+# update specs: ['scipy']
